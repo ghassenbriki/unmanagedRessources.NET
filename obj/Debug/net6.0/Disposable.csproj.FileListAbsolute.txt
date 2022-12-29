@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\app\coding\Disposable\bin\Debug\net6.0\Disposable.exe
+C:\Users\Hp\Desktop\app\coding\Disposable\bin\Debug\net6.0\Disposable.deps.json
+C:\Users\Hp\Desktop\app\coding\Disposable\bin\Debug\net6.0\Disposable.runtimeconfig.json
+C:\Users\Hp\Desktop\app\coding\Disposable\bin\Debug\net6.0\Disposable.dll
+C:\Users\Hp\Desktop\app\coding\Disposable\bin\Debug\net6.0\Disposable.pdb
+C:\Users\Hp\Desktop\app\coding\Disposable\obj\Debug\net6.0\Disposable.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\app\coding\Disposable\obj\Debug\net6.0\Disposable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\app\coding\Disposable\obj\Debug\net6.0\Disposable.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\app\coding\Disposable\obj\Debug\net6.0\Disposable.AssemblyInfo.cs
+C:\Users\Hp\Desktop\app\coding\Disposable\obj\Debug\net6.0\Disposable.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\app\coding\Disposable\obj\Debug\net6.0\Disposable.dll
+C:\Users\Hp\Desktop\app\coding\Disposable\obj\Debug\net6.0\refint\Disposable.dll
+C:\Users\Hp\Desktop\app\coding\Disposable\obj\Debug\net6.0\Disposable.pdb
+C:\Users\Hp\Desktop\app\coding\Disposable\obj\Debug\net6.0\Disposable.genruntimeconfig.cache
+C:\Users\Hp\Desktop\app\coding\Disposable\obj\Debug\net6.0\ref\Disposable.dll
